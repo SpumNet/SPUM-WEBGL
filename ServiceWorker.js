@@ -1,4 +1,4 @@
-const cacheName = "DefaultCompany-PixelEditor-0.1";
+const cacheName = "DefaultCompany-PixelEditor-0.11";
 const contentToCache = [
     "Build/WEB.loader.js",
     "Build/WEB.framework.js",
