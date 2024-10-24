@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-PixelEditor-0.11";
 const contentToCache = [
-    "Build/WEB.loader.js",
-    "Build/WEB.framework.js",
-    "Build/WEB.data",
-    "Build/WEB.wasm",
+    "Build/c87d6c93e7e124840d10db9bbf1cbeac.loader.js",
+    "Build/2fba48a26417cef0b990b66c9aa769cf.framework.js",
+    "Build/a9d339f54af7170e1f712eb27864d6b8.data",
+    "Build/1645f2ad134856fe528d75c74c0d8163.wasm",
     "TemplateData/style.css"
 
 ];
